@@ -1,0 +1,23 @@
+{
+  "name": "l1_playwright_capstone",
+  "version": "1.0.0",
+  "description": "Capstone for L1 Playwright learning path",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscarcanonc/L1_Playwright_Capstone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/oscarcanonc/L1_Playwright_Capstone/issues"
+  },
+  "homepage": "https://github.com/oscarcanonc/L1_Playwright_Capstone#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.6"
+  }
+}
