@@ -1,0 +1,6 @@
+[
+  { "term": "top", "expectedMinimum": 1 },
+  { "term": "dress", "expectedMinimum": 1 },
+  { "term": "jeans", "expectedMinimum": 1 },
+  { "term": "zzzz-no-product", "expectedMinimum": 0 }
+]

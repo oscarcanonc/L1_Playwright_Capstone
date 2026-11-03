@@ -1,0 +1,16 @@
+{
+  "validUser": {
+    "name": "Automation User",
+    "password": "P@ssw0rd123!"
+  },
+  "invalidUsers": [
+    {
+      "email": "invalid@example.com",
+      "password": "wrong-password"
+    },
+    {
+      "email": "not-an-email",
+      "password": "wrong-password"
+    }
+  ]
+}

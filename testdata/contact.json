@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Automation Exercise",
+    "email": "automation@example.com",
+    "subject": "Test subject",
+    "message": "Please validate the contact us form."
+  },
+  {
+    "name": "Quality User",
+    "email": "quality@example.com",
+    "subject": "Product feedback",
+    "message": "This is a data-driven Playwright form test."
+  }
+]
